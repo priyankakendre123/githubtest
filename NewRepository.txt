@@ -1,0 +1,26 @@
+Collection
+Collection is readymade frame work use to store collection of data of unique type as single entity.
+-Collection framework makes use of container to store unique data.
+-By using collection we can store, modify and manipulation operation can be done.
+Type:
+1.	List
+2.	Set
+3.	Queue
+
+-All these three are sub interfaces implanted by structured class that each and each and every implementation class has its own data structure. 
+List Interface:
+Features:
+1.	It is sub interface of collection interface.
+2.	List is use to maintain information in index basis.
+3.	List allows duplicate value
+4.	List allows any no. of null value
+5.	List also use to maintain insertion.
+	List interface implemented by three classes
+	1. Array List
+	2. Vector
+	3. Linked List
+6.	It has default capacity is 10
+7.	Incremental capacity = current capacity * (3/2 +1)
+
+
+
